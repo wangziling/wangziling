@@ -1,4 +1,8 @@
-### Hi there 👋
+```js
+console.log(
+  'Making bugs.😉'
+);
+```
 
 <!--
 **wangziling/wangziling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
