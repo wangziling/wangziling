@@ -1,9 +1,12 @@
-Hi, I'm Sling. ![visitors](https://visitor-badge.glitch.me/badge?page_id=wangziling.wangziling)
+Hi there, I'm Sling.
 ```js
 console.log(
   'Making bugs.😉'
 );
 ```
+
+## Visitor counts
+![](https://profile-counter.glitch.me/wangziling/count.svg)
 
 <!--
 **wangziling/wangziling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
