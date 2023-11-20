@@ -13,7 +13,7 @@ console.log(
   </p>
   <p>
     <picture>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact" alt="Sling's top langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangziling&langs_count=8&layout=compact" alt="Sling's top langs" />
     </picture>
   </p>
   <p>
