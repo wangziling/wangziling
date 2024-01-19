@@ -6,21 +6,25 @@ console.log(
 );
 ```
 <section>
+  <!--
   <p>
     <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=wangziling&show_icons=true&rank_icon=github" alt="Sling's Github stats" />
     </picture>
   </p>
+  -->
   <p>
     <picture>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangziling&langs_count=8&layout=compact" alt="Sling's top langs" />
     </picture>
   </p>
+  <!--
   <p>
     <picture>
       <img src="https://profile-counter.glitch.me/wangziling/count.svg" alt="Visitor counts" />
     </picture>
   </p>
+  -->
 </section>
 
 <!--
