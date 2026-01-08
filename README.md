@@ -15,7 +15,7 @@ console.log('Making bugs.😉');
   </p>
   <p align="center">
     <picture>
-      <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=wangziling&langs_count=8&layout=compact&exclude_repo=wangziling.github.io,blog,thoughts&card_width=500&custom_title=Sling's top langs" alt="Sling's top langs" />
+      <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=wangziling&include_all_commits=true&count_private=true&langs_count=10&layout=compact&exclude_repo=wangziling.github.io,blog,thoughts&card_width=500&custom_title=Sling%27s%20top%20langs" alt="Sling's top langs" />
     </picture>
   </p>
 </section>
