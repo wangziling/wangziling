@@ -32,7 +32,7 @@ jobs:
           fileName: "github-contrib-stats*.tar.gz"
           extract: true
       - name: Update stats
-        run: ./github-contrib-stats -u ${{ github.repository_owner }} --update contribution.md
+        run: ./github-contrib-stats -u ${{ github.repository_owner }} --update Contribution.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit files
